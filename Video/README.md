@@ -1,0 +1,43 @@
+<table>
+    <tr>
+        <th>Model</th>
+        <th colspan="3">H1 (Safe/Unsafe)</th>
+        <th colspan="3">H2 (Adult/Harmful/Suicidal)</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>P</th>
+        <th>R</th>
+        <th>F1</th>
+        <th>P</th>
+        <th>R</th>
+        <th>F1</th>
+    </tr>
+    <tr>
+        <td>ResNet50</td>
+        <td>0.5693</td>
+        <td>0.5273</td>
+        <td>0.4623</td>
+        <td>0.5179</td>
+        <td>0.4967</td>
+        <td>0.4756</td>
+    </tr>
+    <tr>
+        <td>ViT</td>
+        <td>0.7213</td>
+        <td>0.7226</td>
+        <td>0.7218</td>
+        <td>0.6707</td>
+        <td>0.6904</td>
+        <td>0.6773</td>
+    </tr>
+    <tr>
+        <td>CLIP</td>
+        <td>0.7051</td>
+        <td>0.7029</td>
+        <td>0.7037</td>
+        <td>0.7131</td>
+        <td>0.7392</td>
+        <td>0.7204</td>
+    </tr>
+</table>
