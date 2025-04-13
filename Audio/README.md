@@ -1,0 +1,52 @@
+<table>
+    <tr>
+        <th>Model</th>
+        <th colspan="3">H1 (Safe/Unsafe)</th>
+        <th colspan="3">H2 (Adult/Harmful/Suicidal)</th>
+    </tr>
+    <tr>
+        <th></th>
+        <th>P</th>
+        <th>R</th>
+        <th>F1</th>
+        <th>P</th>
+        <th>R</th>
+        <th>F1</th>
+    </tr>
+    <tr>
+        <td>Autoencoder</td>
+        <td>0.46</td>
+        <td>0.46</td>
+        <td>0.46</td>
+        <td>0.34</td>
+        <td>0.32</td>
+        <td>0.26</td>
+    </tr>
+    <tr>
+        <td>CNN</td>
+        <td>0.57</td>
+        <td>0.57</td>
+        <td>0.57</td>
+        <td>0.48</td>
+        <td>0.48</td>
+        <td>0.48</td>
+    </tr>
+    <tr>
+        <td>VGGish</td>
+        <td>0.56</td>
+        <td>0.53</td>
+        <td>0.47</td>
+        <td>0.15</td>
+        <td>0.33</td>
+        <td>0.20</td>
+    </tr>
+    <tr>
+        <td>YAMNet</td>
+        <td>0.53</td>
+        <td>0.53</td>
+        <td>0.53</td>
+        <td>0.58</td>
+        <td>0.54</td>
+        <td>0.53</td>
+    </tr>
+</table>
