@@ -15,21 +15,21 @@
     </tr>
     <tr>
         <td>Autoencoder</td>
-        <td>0.46</td>
-        <td>0.46</td>
-        <td>0.46</td>
-        <td>0.34</td>
+        <td>0.54</td>
+        <td>0.53</td>
+        <td>0.51</td>
+        <td>0.27</td>
         <td>0.32</td>
-        <td>0.26</td>
+        <td>0.24</td>
     </tr>
     <tr>
         <td>CNN</td>
+        <td>0.59</td>
+        <td>0.58</td>
         <td>0.57</td>
-        <td>0.57</td>
-        <td>0.57</td>
-        <td>0.48</td>
-        <td>0.48</td>
-        <td>0.48</td>
+        <td>0.46</td>
+        <td>0.47</td>
+        <td>0.46</td>
     </tr>
     <tr>
         <td>VGGish</td>
@@ -42,11 +42,11 @@
     </tr>
     <tr>
         <td>YAMNet</td>
-        <td>0.53</td>
-        <td>0.53</td>
-        <td>0.53</td>
-        <td>0.58</td>
-        <td>0.54</td>
-        <td>0.53</td>
+        <td>0.59</td>
+        <td>0.55</td>
+        <td>0.50</td>
+        <td>0.47</td>
+        <td>0.49</td>
+        <td>0.46</td>
     </tr>
 </table>
